@@ -1,6 +1,6 @@
 # target-bigquery
 
-`target-bigquery` is a Singer target for BigQuery.
+`target-bigquery` is a Singer target for Google Cloud Platform BigQuery managed service.
 
 Build with the [Meltano Target SDK](https://sdk.meltano.com).
 
